@@ -1,5 +1,12 @@
 
-HOST = '192.168.0.102'
+# HOST = '192.168.0.101'
+HOST = '192.168.0.104'
 PORT = 12345
 
 WORKERS = 5
+
+STEP = 6
+
+RES_LOC_PRINT = False
+
+PI_RANGE = (0, 8)
